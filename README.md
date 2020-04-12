@@ -30,4 +30,3 @@
 
 # Model
 
-![demir](https://user-images.githubusercontent.com/54184905/79076277-84857700-7d01-11ea-9887-327a3bd592d4.png)
