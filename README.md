@@ -18,6 +18,6 @@
 
 * Cihazınızda Python 3.5 ve üzeri kurulu olması gerekmektedir.
 * Modeli test etmek için "mask_model_test" klasörü içindeki "mask_model_test.py" adlı Python dosyasını çalıştırmanız yeterli olacaktır.
-* Bu dosya ile aynı konumda bulunan "demir_API" adlı Python dosyası, sizin için gerekli olan Pip leri kuracaktır.
+* Bu dosya ile aynı konumda bulunan "demir_API" adlı Python dosyası, otomatik olarak sizin için gerekli olan Pip leri kuracaktır.
 * Bu API aynı zamanda Maske tespiti için eğittiğim modelleri internet üzerinden indirecektir.
 * Tüm işlemler tamamlandıktan sonra kamera açılacaktır ve Maske tespiti işlemi yapmaya başlayacaktır.
