@@ -18,6 +18,7 @@
 * Veri seti = www.kaggle.com/dataset/fc2133756a6f808aad3c673a4eda70ba5b94adde6c953f1d8936030b94ffd2ae
 * Veri seti API = kaggle datasets download -d ahmetfurkandemr/mask-datasets-v1
 
+![Screenshot_2020-04-12_21-00-08](https://user-images.githubusercontent.com/54184905/79076187-d7aafa00-7d00-11ea-8354-8ec26e282dd1.png)
 
 # Mask Detection - Face Detection
 
